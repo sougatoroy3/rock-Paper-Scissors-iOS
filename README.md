@@ -16,9 +16,10 @@ A fast-paced, logic-driven iOS game where players go head-to-head with the CPU i
 
 ## 🖼️ Preview
 
-| Title Section | CPU Prompting | Game in Action |
-|:-------------:|:-------------:|:--------------:|
-| ![Screenshot1](Screenshots/title.png) | ![Screenshot2](Screenshots/prompt.png) | ![Screenshot3](Screenshots/gameplay.png) |
+| CPU Prompting | Game Over |
+|:-------------:|:---------:|
+| :<img width="300" height="500" alt="Screenshot 2025-07-30 at 10 54 06 PM" src="https://github.com/user-attachments/assets/a0107b7a-1b93-4777-9bf1-56d9a504dd0b" /> | <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/4d141529-b22a-474c-9359-1dc5e24af78a" />
+ |
 
 
 ---
